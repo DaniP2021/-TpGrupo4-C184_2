@@ -57,3 +57,12 @@
     justify-content: center;
     }
 
+    .form a{
+        display: flex;
+        justify-content: center;
+        background-color: #2b4c7e;
+        align-content: center; 
+        color: aliceblue;
+        text-decoration: none;
+        border-radius: 1rem;
+     }

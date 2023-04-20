@@ -4,6 +4,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,600&family=Concert+One&family=Days+One&family=Jockey+One&family=Lilita+One&family=Paytone+One&family=Rampart+One&family=Rubik+Mono+One&family=Secular+One&family=Unbounded:wght@200&display=swap');
 
+body {
+    font-family:serif,  monospace,  sans-serif;
+    background-image: url(/Img/estadio.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .principal {
     margin-top: 30px;
 }
