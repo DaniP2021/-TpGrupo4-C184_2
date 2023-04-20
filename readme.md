@@ -1,7 +1,2 @@
-#Trabajo práctico Grupo 4
-Comision 184
-
-Integrantes
-    Cristina Gonzalez
-    Fabian Schächtel
-    Daniel Paltano
+# -TpGrupo4-C184_2
+Variante sobre el practico Grupal que a mi personalmente me gusta mas!

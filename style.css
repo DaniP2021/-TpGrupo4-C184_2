@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=DynaPuff:wght@400;700&family=Paytone+One&family=Rock+Salt&family=Sigmar+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,600&family=Concert+One&family=Days+One&family=Jockey+One&family=Lilita+One&family=Paytone+One&family=Rampart+One&family=Rubik+Mono+One&family=Secular+One&family=Unbounded:wght@200&display=swap');
+
 
 * {
     margin: 0;
@@ -63,20 +66,20 @@ body {
 }
 
 .text-center{
-    color: rgb(236, 129, 90);
-    font-family:"DynaPuff", cursive ;
+    color: white;
+    font-family:"Rampart One";
 }
 
 #cat {
-    color:rgb(236, 129, 90);
+    color:white;
     text-align : center;
-    font-family: "DynaPuff", cursive ;
+    font-family: "Rampart One" ;
 }
 
 #frase{
-    color: rgb(236, 129, 90);
+    color: white;
     text-align: center;
-    font-family: "Roboto Slab", serif;
+    font-family: "Rampart One";
     font-size: x-large;
 }
     
@@ -211,7 +214,7 @@ section p{
     width: 30%;
     font-size: 19px;
     font-family: "Roboto Slab",serif;
-    color: black;
+    color:white;
     }
 .card{
     background-color: gray;
@@ -222,7 +225,7 @@ section p{
     background-color: gray;
 }
 .card-text{
-    color: black;
+    color: white;
     font-family:"Roboto Slab",serif;
     background-color: gray;
 }
@@ -230,10 +233,15 @@ section p{
 background-color:gray;
 }
 .card-title{
-    font-family:"DynaPuff", cursive ;
+    font-family: "Rampart One" ;
     background-color: gray;  
+    color: white;
 }
 #foot{
-    font-family: "Roboto Slab",serif;
+    font-family: "Rampart One" ;
     font-size: 14px;
+}
+.imagen-central{
+display: flex;
+justify-content: center;
 }
