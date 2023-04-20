@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=DynaPuff:wght@400;700&family=Paytone+One&family=Rock+Salt&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,600&family=Concert+One&family=Days+One&family=Jockey+One&family=Lilita+One&family=Paytone+One&family=Rampart+One&family=Rubik+Mono+One&family=Secular+One&family=Unbounded:wght@200&display=swap');
+
+.navbar{
+    background-color:#f4f007;
+}
+
+.navbar{
+    font-family: "DynaPuff", cursive;
+     padding: 0;
+     background-color: rgb(231, 235, 35);
+     width: 100%;
+     position: fixed;
+     z-index: 100;
+     margin: 0;
+ }
+
+ .navbar-brand {
+    font-size: xx-large;
+    font-family:"DynaPuff", cursive;
+    color: blue;
+}
+
+.text-center{
+    color: white;
+    font-family:"Rampart One";
+}
+
+.logo{
+    margin: 10px;
+    padding: 10px;
+    justify-content:center;
+    text-align: center;
+}
+
+.logo h5{
+    font-family: "DynaPuff", cursive ;
+}
+
+.detalles{
+    align-self: center;
+    font-family: "DynaPuff", cursive;
+    
+}
+
+.detalles p{
+    color: black;
+    padding-left: 10%;
+    padding-right: 30%;
+}
+
+.imagen-central{
+    display: flex;
+    justify-content: center;
+    }
+

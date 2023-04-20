@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=DynaPuff:wght@400;700&family=Paytone+One&family=Rock+Salt&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,600&family=Concert+One&family=Days+One&family=Jockey+One&family=Lilita+One&family=Paytone+One&family=Rampart+One&family=Rubik+Mono+One&family=Secular+One&family=Unbounded:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    font-family:serif,  monospace,  sans-serif;
+    background-image: url(./Img/estadio.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+    /*background:linear-gradient(90deg, blue,white );*/ 
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 0.5;
+}

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=DynaPuff:wght@400;700&family=Paytone+One&family=Rock+Salt&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,600&family=Concert+One&family=Days+One&family=Jockey+One&family=Lilita+One&family=Paytone+One&family=Rampart+One&family=Rubik+Mono+One&family=Secular+One&family=Unbounded:wght@200&display=swap');
+
+footer {
+    background-color:#f4f007;
+    padding: 5px ;
+    
+}
+
+li:hover {
+    background-color: rgb(224, 200, 141);
+}
+
+/*estilo para el formulario*/
+.form{
+    background-color: white;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 1em;
+    padding: 3.5em 1.5em;
+    margin: 5% auto auto auto;
+    
+}
+
+.estilo{
+    font-family: 'Montserrat', sans-serif;
+    min-width: 100vh;
+    width: 100%;
+    display: flex;
+    }
+
+    .input{
+        font-family: inherit;
+        font-size: 1rem;
+        padding:0.8 1em ;
+        border: none;
+        outline: none;
+        border: 1px solid #bbb0b0;
+        border-radius: 0.2em;
+    }
+
+    #enviar {
+        font-family: inherit;
+        border-radius: 1rem;
+        background-color:rgb(39, 171, 227) ;
+        height: 2rem;
+        color: white;
+        font-size: 1.2rem;
+    }
+    
+    .contenido{
+        width: 100%;
+        display: grid;
+        gap: 1em;
+        grid-auto-columns: 100%;
+    }
+    
+    .button-link{
+        color: #0c0c54;
+        text-transform: uppercase;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    #foot{
+        font-family: "Rampart One" ;
+        font-size: 14px;
+    }
+
+    
